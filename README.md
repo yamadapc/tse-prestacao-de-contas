@@ -26,8 +26,22 @@ archives look like zip-bombs and couldn't be uncompressed:
 So that's a bummer.
 
 ## Makefile tasks
-### make fetch_data
+### `make fetch_data`
 Downloads the zip files from source.
 
-### make unzip_data
+### `make unzip_data`
 Uncompresses the zip files.
+
+### Prestação de Contas 2014
+#### `make convert_to_utf8`
+Ditch LATIN-1 encoding
+
+#### `make txt_to_csv`
+Rename \*.txt to \*.csv
+
+#### `make install_csvkit`
+Install `csvkit` dependency
+
+#### `make db`
+Generate a SQLite3 database with all csv files (this is the important bit
+that'll change and is just a draft)

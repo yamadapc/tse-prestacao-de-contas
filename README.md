@@ -45,3 +45,12 @@ Install `csvkit` dependency
 #### `make db`
 Generate a SQLite3 database with all csv files (this is the important bit
 that'll change and is just a draft)
+
+- - -
+
+# Visualization
+Currently I'm exploring the data and trying to generate a common table schema.
+After that's done, we can use Open-Source software like Metabase to ask and get
+answers from the data-set. Furthermore, we can expose a public Metabase instance
+with the data so people can explore the data:
+![](/metabase-screenshot.png)

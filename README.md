@@ -52,5 +52,5 @@ that'll change and is just a draft)
 Currently I'm exploring the data and trying to generate a common table schema.
 After that's done, we can use Open-Source software like Metabase to ask and get
 answers from the data-set. Furthermore, we can expose a public Metabase instance
-with the data so people can explore the data:
+with the data so people can explore it:
 ![](/metabase-screenshot.png)

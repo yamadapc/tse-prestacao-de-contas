@@ -1,0 +1,5 @@
+#!/bin/bash -e
+for i in *.zip; do
+  echo `basename $i`;
+  ((unzip $i -d `basename $i ".zip"` && echo "$i unzipped") || echo "Failed to unzip file $i");
+done

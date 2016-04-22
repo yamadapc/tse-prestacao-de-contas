@@ -1,0 +1,3 @@
+#!/bin/bash
+# Automagically git lfs track files bigger than 3MB
+find . -not -path '*/\.*' -type f -size +3M | xargs -L 1 git lfs track

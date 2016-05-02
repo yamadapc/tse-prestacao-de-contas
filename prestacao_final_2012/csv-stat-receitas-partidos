@@ -1,0 +1,23 @@
+  1: Data e hora
+  2: Sequencial Diretorio
+  3: UF
+  4: Numero UE
+  5: Municipio
+  6: Tipo diretorio
+  7: Sigla Partido
+  8: Tipo do documento
+  9: Numero do documento
+ 10: CPF/CNPJ do doador
+ 11: Nome do doador
+ 12: Nome receita doador
+ 13: Sigla UE doador
+ 14: Numero partido doador
+ 15: Numero candidato doador
+ 16: Cod setor economico doador
+ 17: Setor economico doador
+ 18: Data da receita
+ 19: Valor receita
+ 20: Tipo receita
+ 21: Fonte recurso
+ 22: Especie recurso
+ 23: Descricao da receita

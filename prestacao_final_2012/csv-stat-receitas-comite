@@ -1,0 +1,230 @@
+  1. Data e hora
+        <type 'unicode'>
+        Nulls: False
+        Values: 20/02/201504:49:00
+  2. Sequencial Comite
+        <type 'int'>
+        Nulls: False
+        Min: 162682
+        Max: 237304
+        Sum: 363775081
+        Mean: 192984.127851
+        Median: 182010
+        Standard Deviation: 22392.2766819
+        Unique values: 554
+        5 most frequent values:
+                176538: 100
+                165636: 59
+                179232: 55
+                196053: 50
+                176547: 49
+  3. UF
+        <type 'unicode'>
+        Nulls: False
+        Values: AL
+  4. N¿mero UE
+        <type 'int'>
+        Nulls: False
+        Min: 27006
+        Max: 28932
+        Sum: 52820336
+        Mean: 28021.3984085
+        Median: 27995
+        Standard Deviation: 553.869115621
+        Unique values: 79
+        5 most frequent values:
+                28673:  365
+                27855:  94
+                27197:  73
+                27871:  72
+                28371:  65
+  5. Municipio
+        <type 'unicode'>
+        Nulls: False
+        Unique values: 79
+        5 most frequent values:
+                SÃO JOSÉ DA TAPERA:     365
+                MACEIÓ: 94
+                BOCA DA MATA:   73
+                MAJOR ISIDORO:  72
+                PILAR:  65
+        Max length: 22
+  6. Tipo comite
+        <type 'unicode'>
+        Nulls: False
+        Values: Comitê Financeiro Único, Comitê Financeiro para Prefeito, Comitê Financeiro para Vereador
+  7. Sigla Partido
+        <type 'unicode'>
+        Nulls: False
+        Unique values: 27
+        5 most frequent values:
+                PMDB:   262
+                PSDB:   224
+                PP:     150
+                PSD:    150
+                PMN:    100
+        Max length: 7
+  8. Tipo do documento
+        <type 'unicode'>
+        Nulls: True
+        Unique values: 1883
+        Max length: 18
+  9. Numero do documento
+        <type 'unicode'>
+        Nulls: True
+        Unique values: 438
+        5 most frequent values:
+                164819479:      8
+                4812191000147:  7
+                402111159:      6
+                67:     5
+                1881945413:     4
+        Max length: 21
+ 10. CPF/CNPJ do doador
+        <type 'unicode'>
+        Nulls: True
+        Unique values: 1051
+        5 most frequent values:
+                01176012410:    30
+                43176135491:    18
+                15938176000166: 17
+                16343259000175: 15
+                10754229149:    13
+        Max length: 14
+ 11. Nome do doador
+        <type 'unicode'>
+        Nulls: True
+        Unique values: 1063
+        5 most frequent values:
+                Comitê Financeiro Municipal Único:      36
+                JARDSON EDSON GUEDES DA SILVA ALMEIDA:  30
+                CESAR SOARES CAMPOS:    18
+                Direção Estadual/Distrital:     14
+                ELEIÇÕES 2012 - RENATO REZENDE ROCHA FILHO - PREFEITO:  14
+        Max length: 67
+ 12. Nome receita doador
+        <type 'unicode'>
+        Nulls: True
+        Unique values: 1045
+        5 most frequent values:
+                JARDSON EDSON GUEDES DA SILVA ALMEIDA:  30
+                CESAR SOARES CAMPOS:    19
+                ELEICAO 2012 RENATO REZENDE ROCHA FILHO PREFEITO:       17
+                ELEICAO 2012 COMITE FINANCEIRO AL UNICO PSB PIACABUCU:  15
+                ELEICAO 2012 SILVANA MARIA CAVALCANTE DA COSTA PINTO PREFEITO:  13
+        Max length: 73
+ 13. Sigla UE doador
+        <type 'unicode'>
+        Nulls: False
+        Unique values: 74
+        5 most frequent values:
+                #NULO#: 1178
+                28673:  38
+                27197:  34
+                27855:  32
+                28355:  31
+        Max length: 6
+ 14. Numero partido doador
+        <type 'unicode'>
+        Nulls: False
+        Unique values: 21
+        5 most frequent values:
+                #NULO#: 1424
+                45:     114
+                11:     71
+                15:     69
+                55:     55
+        Max length: 6
+ 15. Numero candidato doador
+        <type 'unicode'>
+        Nulls: False
+        Unique values: 26
+        5 most frequent values:
+                #NULO#: 1497
+                45:     104
+                11:     62
+                15:     60
+                55:     55
+        Max length: 6
+ 16. Cod setor economico doador
+        <type 'unicode'>
+        Nulls: True
+        Unique values: 33
+        5 most frequent values:
+                9492800:        470
+                4731800:        12
+                4120400:        11
+                4713001:        10
+                4712100:        6
+        Max length: 7
+ 17. Setor economico doador
+        <type 'unicode'>
+        Nulls: True
+        Unique values: 9
+        5 most frequent values:
+                OUTRAS ATIVIDADES DE SERVICOS:  471
+                COMERCIO, REPARACAO DE VEICULOS AUTOMOTORES E MOTOCICLETAS:     42
+                CONSTRUCAO:     15
+                INDUSTRIAS DE TRANSFORMACAO:    12
+                TRANSPORTE, ARMAZENAGEM E CORREIO:      6
+        Max length: 62
+ 18. Data da receita
+        <type 'datetime.date'>
+        Nulls: False
+        Min: 2012-01-08
+        Max: 2012-12-09
+        Unique values: 107
+        5 most frequent values:
+                2012-05-10:     355
+                2012-07-10:     129
+                2012-07-20:     127
+                2012-07-31:     73
+                2012-06-10:     68
+ 19. Valor receita
+        <type 'int'>
+        Nulls: False
+        Min: 2
+        Max: 1841317
+        Sum: 11298006
+        Mean: 5993.63713528
+        Median: 300
+        Standard Deviation: 50010.7768975
+        Unique values: 223
+        5 most frequent values:
+                100:    349
+                200:    191
+                300:    137
+                50:     112
+                2073:   94
+ 20. Tipo receita
+        <type 'unicode'>
+        Nulls: False
+        Values: Recursos de outros candidatos/comitês, Recursos de pessoas físicas, Rendimentos de aplicações financeiras, Recursos de pessoas jurídicas, Recursos de partido político
+ 21. Fonte recurso
+        <type 'unicode'>
+        Nulls: False
+        Values: Fundo Partidario, Outros Recursos nao descritos, Nao especificado
+ 22. Especie recurso
+        <type 'unicode'>
+        Nulls: False
+        Unique values: 6
+        5 most frequent values:
+                Estimado:       1380
+                Depósito em espécie:    383
+                Cheque: 73
+                Transferência eletrônica:       42
+                Em espécie:     5
+        Max length: 24
+ 23. Descricao da receita
+        <type 'unicode'>
+        Nulls: True
+        Unique values: 507
+        5 most frequent values:
+                DOAÇÃO DE SERVIÇO DE MOTORISTA NO DIA DA ELEIÇÃO 07/10/2012:    72
+                DOAÇÃO DE VEÍCULO PARA TRANSPORTE DE ELEITORES NO DIA DA ELEIÇÃO 07/10/2012:    64
+                01 SERVIÇO DE FISCAL NO DIA DA ELEIÇÃO· VALOR UNITARIO R$ 50·00· AVALIAÇÃO PRATICADA PELO VALOR DE MERCADO:     40
+                DOAÇÃO DE SERVIÇO COMO FISCAL NO DIA DA ELEIÇÃO 07/10/2012:     32
+                PRESTAÇÃO DE SERVIÇOS - ELABORAÇÃO DE PRESTAÇÃO DE CONTAS DE COMITÊ FINANCEIRO: 30
+        Max length: 252
+
+Row count: 1885

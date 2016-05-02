@@ -1,0 +1,28 @@
+  1. Data e hora
+  2. Sequencial Candidato
+  3. UF
+  4. Numero UE
+  5. Municipio
+  6. Sigla Partido
+  7. Numero candidato
+  8. Cargo
+  9. Nome candidato
+ 10. CPF do candidato
+ 11. Numero Recibo Eleitoral
+ 12. Numero do documento
+ 13. CPF/CNPJ do doador
+ 14. Nome do doador
+ 15. Nome receita doador
+ 16. Sigla UE doador
+ 17. Numero partido doador
+ 18. Numero candidato doador
+ 19. Cod setor economico doador
+ 20. Setor economico doador
+ 21. Data da receita
+ 22. Valor receita
+ 23. Tipo receita
+ 24. Fonte recurso
+ 25. Especie recurso
+ 26. Descricao da receita
+
+Row count: 10530
